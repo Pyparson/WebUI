@@ -1,0 +1,12 @@
+URL: https://mail.163.com/
+User: root
+PassWord: 123456
+contactDetails:
+  - { type: "mobile", number: 123456789}
+  - { type: "landline", number: 123456789}
+case:
+  - case1
+  - case2
+Name:
+  Python: Pytest
+  Java: Testng

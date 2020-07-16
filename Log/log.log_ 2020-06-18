@@ -1,0 +1,116 @@
+2020-06-18 10:43:43  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 10:43:43  [ main:221 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 10:43:43  [ main:238 ] - [ ERROR ]  Column 'title' not found.
+2020-06-18 10:44:28  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 10:44:28  [ main:177 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 10:44:28  [ main:193 ] - [ ERROR ]  Column 'title' not found.
+2020-06-18 10:45:31  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 10:45:31  [ main:212 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 10:45:31  [ main:231 ] - [ ERROR ]  java.sql.SQLException: Column 'title' not found.
+2020-06-18 10:47:10  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 10:47:10  [ main:193 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 10:47:10  [ main:217 ] - [ ERROR ]  java.sql.SQLException: Column 'title' not found.
+2020-06-18 10:47:10  [ main:218 ] - [ ERROR ]  java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:27:59  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 11:27:59  [ main:216 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 11:27:59  [ main:234 ] - [ ERROR ]  java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:27:59  [ main:235 ] - [ ERROR ]  java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:27:59  [ main:235 ] - [ INFO ]  Column 'title' not found.
+2020-06-18 11:29:18  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 11:29:19  [ main:214 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 11:29:19  [ main:236 ] - [ ERROR ]  fill:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:29:19  [ main:237 ] - [ ERROR ]  se:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:29:19  [ main:237 ] - [ INFO ]  mes:Column 'title' not found.
+2020-06-18 11:30:08  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 11:30:08  [ main:206 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 11:30:08  [ main:225 ] - [ ERROR ]  fill:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:30:08  [ main:225 ] - [ ERROR ]  se:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:30:08  [ main:226 ] - [ INFO ]  mes:[Ljava.lang.StackTraceElement;@74455848
+2020-06-18 11:38:30  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 11:38:30  [ main:242 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 11:38:30  [ main:260 ] - [ ERROR ]  fill:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:38:30  [ main:260 ] - [ ERROR ]  se:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:38:30  [ main:260 ] - [ INFO ]  mes:[Ljava.lang.StackTraceElement;@62230c58
+2020-06-18 11:39:40  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 11:39:40  [ main:199 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 11:39:40  [ main:223 ] - [ ERROR ]  fill:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:39:40  [ main:224 ] - [ ERROR ]  se:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:39:40  [ main:224 ] - [ INFO ]  mes:Column 'title' not found.java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:46:16  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 11:46:16  [ main:213 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 11:46:16  [ main:231 ] - [ ERROR ]  fill:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:46:16  [ main:231 ] - [ ERROR ]  se:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:46:16  [ main:232 ] - [ ERROR ]  Throwable:Column 'title' not found.
+java.sql.SQLException: Column 'title' not found.
+	at com.tool.MysqlUtil.getSqlValues(MysqlUtil.java:43)
+	at com.test.TestLog.testSql(TestLog.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+2020-06-18 11:47:30  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 11:47:30  [ main:223 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 11:47:30  [ main:250 ] - [ ERROR ]  Column 'title' not found.
+java.sql.SQLException: Column 'title' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:548)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getString(ResultSetImpl.java:852)
+	at com.tool.MysqlUtil.getSqlValues(MysqlUtil.java:34)
+	at com.test.TestLog.testSql(TestLog.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+2020-06-18 11:54:01  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 11:54:01  [ main:206 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 11:54:01  [ main:225 ] - [ INFO ]  查询结果Title:1
+2020-06-18 11:54:01  [ main:226 ] - [ INFO ]  查询结果Title:2
+2020-06-18 11:54:01  [ main:226 ] - [ INFO ]  查询结果Title:3
+2020-06-18 12:01:11  [ main:0 ] - [ INFO ]  Connect Database...
+2020-06-18 12:01:11  [ main:211 ] - [ INFO ]  实例化Statement对象...
+2020-06-18 12:01:11  [ main:227 ] - [ INFO ]  查询结果Title:1
+2020-06-18 12:01:11  [ main:227 ] - [ INFO ]  查询结果Title:2
+2020-06-18 12:01:11  [ main:228 ] - [ INFO ]  查询结果Title:3

@@ -1,0 +1,906 @@
+2020-06-05 14:31:39,084 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-05 14:31:42,383 INFO main [com.driver.Driver]info(line:35)Browser SetSize:(800, 800)
+2020-06-05 14:31:45,393 INFO main [com.driver.Driver]info(line:35)Current URL:file:///Users/hfy/Documents/01_Code/WebUI/Log/index.html
+2020-06-05 14:31:45,469 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-09 16:10:10,304 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-09 16:10:13,687 INFO main [com.driver.Driver]info(line:35)Browser SetSize:(800, 800)
+2020-06-09 16:10:16,984 INFO main [com.driver.Driver]info(line:35)Current URL:file:///Users/hfy/Documents/01_Code/WebUI/Log/index.html
+2020-06-09 16:10:17,064 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-09 17:45:46,645 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-09 17:45:50,300 INFO main [com.driver.Driver]info(line:35)Browser SetSize:(800, 800)
+2020-06-09 17:45:53,567 INFO main [com.driver.Driver]info(line:35)Current URL:file:///Users/hfy/Documents/01_Code/WebUI/Log/index.html
+2020-06-09 17:45:53,886 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-09 18:39:46,501 ERROR main [com.tool.FileUnit]error(line:43)Read File error!!!
+2020-06-09 18:40:55,781 ERROR main [com.tool.FileUnit]error(line:43)Read File error!!!
+2020-06-10 11:56:06,843 ERROR main [com.tool.FileUnit]error(line:43)Read File error!!!
+2020-06-11 18:18:06,272 ERROR main [com.tool.FileUnit]error(line:43)Read File error!!!
+2020-06-12 16:29:41,466 INFO main [com.tool.FileUnit]info(line:35)Key:URL  ->  Value:http://localhost:8080
+2020-06-12 16:29:41,471 INFO main [com.tool.FileUnit]info(line:35)Key:User  ->  Value:root
+2020-06-12 16:59:56,875 INFO main [com.tool.FileUnit]info(line:35)Key:URL   ===>    Value:http://localhost:8080
+2020-06-12 17:07:56,589 INFO main [com.tool.FileUnit]info(line:35)Key:URL   ===>    Value:http://localhost:8080
+2020-06-15 19:13:43,229 ERROR main [com.driver.Driver]error(line:43)Element:By.xpath: //li[@title="首页"] not Found...
+2020-06-15 19:15:42,336 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:15:54,862 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:15:55,622 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:15:56,135 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:15:56,651 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:15:57,166 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:15:57,678 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:15:58,189 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:15:58,703 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:15:59,214 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:15:59,724 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:00,240 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:00,757 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:01,271 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:01,785 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:02,301 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:02,814 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:03,328 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:03,844 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:04,356 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:04,868 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:05,382 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:05,896 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:06,414 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:06,929 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:07,440 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:07,952 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:08,469 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:08,985 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:09,501 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:10,011 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:10,524 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:11,035 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:11,546 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:12,060 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:12,574 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:13,088 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:13,602 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:14,112 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:14,625 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:15,139 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:15,657 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:16,168 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:16,682 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:17,192 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:17,703 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:18,218 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:18,732 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:19,242 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:19,753 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:20,265 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:20,776 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:21,286 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:21,797 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:22,308 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:22,820 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:23,335 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:23,845 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:24,357 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:24,871 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:16:24,882 ERROR main [com.driver.Driver]error(line:43)Element:By.name: email not Found...
+2020-06-15 19:20:45,225 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:20:53,145 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:20:53,187 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (38e7cc9b3b1dfd299e2194b0e6489674)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:20:53,188 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:20:53,333 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson@163.com
+2020-06-15 19:20:53,334 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:20:53,447 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:20:53,448 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:20:53,541 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:20:53,555 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:54,334 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:54,861 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:55,373 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:55,885 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:56,396 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:56,907 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:57,419 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:57,934 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:58,452 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:58,967 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:20:59,702 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:00,214 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:00,729 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:01,240 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:01,752 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:02,267 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:02,781 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:03,292 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:03,806 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:04,317 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:04,832 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:05,347 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:05,857 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:06,369 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:06,885 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:07,401 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:07,916 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:08,431 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:08,945 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:09,463 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:09,975 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:10,485 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:10,999 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:11,507 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:12,018 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:12,532 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:13,045 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:13,558 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:14,068 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:14,582 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:15,093 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:15,607 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:16,121 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:16,633 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:17,143 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:17,659 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:18,169 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:18,682 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:19,193 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:19,708 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:20,223 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:20,735 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:21,251 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:21,762 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:22,272 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:22,786 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:23,302 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:23,811 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:21:23,823 ERROR main [com.driver.Driver]error(line:43)Element:By.xpath: //li[@title="首页"] not Found...
+2020-06-15 19:22:03,636 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:22:12,246 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:22:12,283 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (e6f7561c19ef079d7589bac6e57c5a91)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:22:12,284 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:22:12,441 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson@163.com
+2020-06-15 19:22:12,441 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:22:12,551 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:22:12,552 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:22:12,647 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:22:12,658 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:13,197 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:13,713 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:14,229 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:14,744 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:15,260 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:15,774 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:16,291 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:16,806 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:17,693 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:18,231 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:18,750 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:19,600 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:20,116 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:20,632 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:21,147 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:21,658 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:22,168 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:22,681 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:23,197 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:23,711 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:24,224 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:24,738 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:25,253 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:25,765 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:26,287 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:26,803 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:27,314 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:27,823 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:28,332 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:28,847 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:29,357 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:30,373 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:30,480 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:22:30,539 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:22:30,542 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //b[@class="nui-ico nui-ico-checkbox"]
+2020-06-15 19:22:30,575 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:30,708 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:30,711 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:22:30,774 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:22:30,778 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:30,833 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:22:30,836 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //span[@title="红旗邮件"]
+2020-06-15 19:22:30,889 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //span[@title="红旗邮件"]
+2020-06-15 19:22:31,018 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:25:06,811 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:25:15,721 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:25:15,765 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (111532789065d8048931c50c3807eb79)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:25:15,765 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:25:15,923 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson@163.com
+2020-06-15 19:25:15,924 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:25:16,053 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:25:16,054 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:25:21,462 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:25:21,505 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:22,037 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:22,553 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:23,068 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:23,581 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:24,090 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:27,518 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:28,035 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:28,547 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:29,064 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:29,577 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:30,089 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:30,603 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:31,119 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:31,635 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:32,151 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:32,667 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:33,182 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:33,697 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:34,208 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:34,725 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:35,240 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:35,752 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:36,267 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:36,782 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:25:37,291 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:26:01,417 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:26:01,532 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:26:01,599 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:26:01,600 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //b[@class="nui-ico nui-ico-checkbox"]
+2020-06-15 19:26:01,631 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:26:01,763 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:26:01,766 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:26:01,838 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:26:01,841 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:26:01,896 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:26:01,899 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //span[@title="红旗邮件"]
+2020-06-15 19:26:01,955 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //span[@title="红旗邮件"]
+2020-06-15 19:26:02,074 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:27:45,792 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:27:50,243 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:27:50,279 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (8805edd8643048a0a81c889e3d92d7a8)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:27:50,279 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:27:50,417 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson@163.com
+2020-06-15 19:27:50,417 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:27:50,517 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:27:50,517 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:27:50,938 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:27:50,981 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:51,841 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:52,355 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:52,869 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:53,379 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:53,892 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:54,575 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:55,088 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:55,601 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:56,116 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:56,631 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:57,145 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:57,659 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:58,170 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:58,685 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:59,200 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:27:59,715 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:00,228 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:00,744 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:01,254 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:01,768 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:02,282 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:02,796 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:03,310 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:03,825 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:04,339 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:16,503 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:28:16,609 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:28:16,671 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:28:16,672 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //b[@class="nui-ico nui-ico-checkbox"]
+2020-06-15 19:28:16,835 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:32:27,373 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:32:42,850 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:32:42,890 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (6c6ac6f947b2a81097486c75d9741914)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:32:42,890 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:32:43,049 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson@163.com
+2020-06-15 19:32:43,049 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:32:43,155 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:32:43,155 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:32:43,236 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:32:43,280 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:44,103 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:44,620 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:45,135 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:45,964 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:46,479 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:46,994 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:47,510 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:48,022 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:48,537 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:49,047 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:49,558 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:50,073 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:50,589 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:51,103 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:51,652 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:52,166 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:52,682 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:53,194 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:53,707 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:54,222 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:54,736 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:55,251 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:55,765 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:56,275 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:56,792 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:57,307 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:57,823 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:58,338 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:58,853 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:59,366 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:32:59,878 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:00,391 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:00,905 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:01,418 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:01,932 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:02,444 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:02,956 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:03,468 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:03,982 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:04,495 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:05,007 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:05,522 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:06,038 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:06,553 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:07,066 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:07,576 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:08,089 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:08,604 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:09,119 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:09,630 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:10,140 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:10,656 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:11,174 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:11,688 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:12,200 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:12,713 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:13,224 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:13,735 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:13,747 ERROR main [com.driver.Driver]error(line:43)Element:By.xpath: //li[@title="首页"] not Found...
+2020-06-15 19:33:31,502 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:33:39,901 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:33:39,938 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (5c3f1bfd2755527aa8b2b7d2bba666ce)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:33:39,939 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:33:40,081 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:33:40,081 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:33:40,210 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:33:40,211 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:33:40,323 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:33:40,365 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:40,899 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:41,415 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:43,170 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:33:43,279 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:33:43,340 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:33:43,342 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //span[contains(text(),"删 除")]
+2020-06-15 19:33:43,858 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //span[contains(text(),"删 除")]
+2020-06-15 19:33:43,919 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //span[contains(text(),"删 除")]
+2020-06-15 19:33:44,068 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:37:25,823 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:37:34,744 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:37:34,780 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (ee79dcccdfb65789b5403505cd016125)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:37:34,780 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:37:34,895 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:37:34,895 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:37:35,001 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:37:35,002 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:37:35,095 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:37:38,109 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:37:44,796 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:37:46,207 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:37:46,267 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //*[contains(text(),"收 信")]
+2020-06-15 19:37:46,268 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:37:46,417 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:42:49,981 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:42:59,235 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:42:59,270 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (a55cb97c7e91fa7abfcad09778b70a9c)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:42:59,270 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:42:59,388 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:42:59,389 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:42:59,491 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:42:59,491 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:42:59,970 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:43:02,984 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:43:03,029 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:43:04,448 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:04,982 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:05,497 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:06,010 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:06,590 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:07,103 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:07,618 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:08,132 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:08,644 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:09,154 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:09,668 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:10,182 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:10,698 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:11,209 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:11,724 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:12,239 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:12,751 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:13,267 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:13,783 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:14,297 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:43:14,466 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:48:00,390 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:48:04,379 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:48:04,414 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (55f190c3b9856e79b2564a3c514beb98)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:48:04,415 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:48:04,547 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:48:04,548 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:48:04,654 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:48:04,655 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:48:05,448 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:48:08,462 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:48:08,510 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:48:09,847 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:10,379 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:10,892 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:11,417 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:11,935 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:12,453 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:12,967 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:13,479 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:13,993 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:14,506 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:15,022 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:15,536 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:16,051 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:16,567 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:17,082 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:17,597 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:18,111 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:18,624 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:19,137 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:19,651 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:20,166 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:20,682 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:21,197 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:21,709 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:22,224 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:22,740 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:23,253 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:23,767 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:24,278 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:24,794 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:25,308 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:25,821 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:26,336 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:26,853 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:27,367 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:27,881 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:28,393 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:28,903 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:29,417 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:29,929 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:30,446 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:30,964 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:31,477 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:31,990 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:32,501 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:33,015 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:33,526 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:34,041 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:34,557 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:35,068 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:35,582 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:36,094 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:36,607 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:37,120 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:37,635 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:38,146 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:38,659 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:39,174 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:39,685 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:40,201 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:48:40,213 ERROR main [com.driver.Driver]error(line:43)Element:By.xpath: //*[@aria-label="收件箱"] not Found...
+2020-06-15 19:48:40,351 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:50:34,641 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:50:38,987 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:50:39,025 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (1f01a6f355e61dc223144e94845daa05)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:50:39,025 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:50:39,144 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:50:39,144 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:50:39,268 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:50:39,268 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:50:39,354 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:50:42,366 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:50:51,910 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:50:53,413 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:53,942 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:54,457 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:54,968 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:55,484 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:56,001 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:56,512 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:57,026 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:57,542 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:58,053 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:58,568 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:59,082 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:50:59,598 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:00,110 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:00,624 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:01,137 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:01,651 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:02,165 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:02,676 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:03,188 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:03,700 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:04,212 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:04,726 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:05,238 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:05,752 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:06,267 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:06,779 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:07,291 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:07,806 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:08,324 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:08,837 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:09,353 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:09,868 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:10,381 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:10,897 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:11,412 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:11,929 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:12,440 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:12,952 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:13,465 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:13,977 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:14,490 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:15,003 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:15,518 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:16,032 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:16,542 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:17,052 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:17,567 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:18,078 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:18,591 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:19,103 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:19,617 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:20,129 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:20,644 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:21,157 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:21,668 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:22,181 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:22,691 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:23,203 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:23,718 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:51:23,729 ERROR main [com.driver.Driver]error(line:43)Element:By.xpath: //*[@aria-label="收件箱"] not Found...
+2020-06-15 19:51:23,865 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:52:55,939 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:53:03,323 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:53:03,362 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (a82bcd4aa5287c53742719a1b3bab30b)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:53:03,363 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:53:03,475 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:53:03,476 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:53:03,585 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:53:03,586 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:53:03,680 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:53:06,692 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:53:07,495 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:53:08,876 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:53:09,979 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:10,496 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:11,010 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:11,523 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:12,041 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:12,557 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:13,068 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:13,582 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:14,098 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:14,608 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:15,122 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:15,638 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:16,151 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:16,667 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:17,178 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:17,689 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:18,200 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:18,713 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:19,224 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:19,737 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:20,253 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:20,764 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:21,278 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:21,791 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:22,303 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:22,818 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:23,332 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:23,847 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:24,361 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:24,875 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:25,390 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:25,902 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:26,416 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:26,928 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:27,444 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:27,955 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:28,468 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:28,982 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:29,500 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:30,013 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:30,523 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:31,034 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:31,552 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:32,064 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:32,580 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:33,090 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:33,603 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:34,115 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:34,632 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:35,145 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:35,659 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:36,170 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:36,684 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:37,197 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:37,710 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:38,224 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:38,738 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:39,258 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:39,768 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:40,282 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //*[@aria-label="收件箱"]
+2020-06-15 19:53:40,293 ERROR main [com.driver.Driver]error(line:43)Element:By.xpath: //*[@aria-label="收件箱"] not Found...
+2020-06-15 19:53:40,432 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:53:46,265 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:53:49,553 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:53:49,592 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (7c3b5a3f5f6228632816ac2e04401fae)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:53:49,592 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:53:49,703 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:53:49,703 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:53:49,801 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:53:49,802 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:53:50,284 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:53:53,298 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:53:53,360 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:53:54,455 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:53:54,512 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:53:54,514 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:53:54,664 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:54:56,836 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:55:05,013 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:55:05,051 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (322b7fd6fa86bbabc22bf2511814e8fc)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:55:05,051 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:55:05,176 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:55:05,176 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:55:05,286 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:55:05,286 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:55:05,373 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:55:08,386 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:55:14,169 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:55:15,504 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:55:15,563 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:55:20,567 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:55:20,624 INFO main [com.driver.Driver]info(line:35)Click Element(8):By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:55:20,625 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //span[contains(text(),"删 除")]
+2020-06-15 19:55:20,690 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //span[contains(text(),"删 除")]
+2020-06-15 19:55:21,826 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:55:57,971 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:56:28,239 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:56:28,274 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (d099fe2d634317eca6183fd0174e1373)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:56:28,275 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:56:28,389 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:56:28,390 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:56:28,508 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:56:28,508 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:56:28,616 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:56:31,631 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:56:32,238 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:56:33,338 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:56:33,393 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:56:38,399 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:56:38,473 INFO main [com.driver.Driver]info(line:35)Click Element(8):By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:56:38,474 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //span[contains(text(),"删 除")]
+2020-06-15 19:56:38,529 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //span[contains(text(),"删 除")]
+2020-06-15 19:56:39,673 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:57:08,255 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:57:15,632 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:57:15,670 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (bafb0761e04556f07991c17ad534fe74)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:57:15,671 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:57:15,798 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:57:15,799 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:57:15,905 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:57:15,905 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:57:15,990 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:57:19,001 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:57:19,050 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:57:20,424 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:57:20,483 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:57:25,485 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:57:25,550 INFO main [com.driver.Driver]info(line:35)Click Element(8):By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:57:25,550 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //span[contains(text(),"删 除")]
+2020-06-15 19:57:25,610 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //span[contains(text(),"删 除")]
+2020-06-15 19:57:28,756 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-15 19:58:01,944 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-15 19:58:11,801 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-15 19:58:12,050 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (d24a9573c77dca95ac5cdac8bf99ecd2)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-15 19:58:12,051 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-15 19:58:12,174 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-15 19:58:12,175 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-15 19:58:12,287 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-15 19:58:12,287 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-15 19:58:12,816 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-15 19:58:15,831 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:58:28,245 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-15 19:58:29,357 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:58:29,420 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-15 19:58:34,424 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:58:34,490 INFO main [com.driver.Driver]info(line:35)Click Element(8):By.xpath: //*[@title="选中此邮件"]
+2020-06-15 19:58:37,628 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-16 11:57:33,801 INFO main [com.driver.Driver]info(line:35)Open Chrome
+2020-06-16 11:57:38,690 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //iframe[@frameborder="0"]
+2020-06-16 11:57:38,729 INFO main [com.driver.Driver]info(line:35)Switch to Frame:[[ChromeDriver: chrome on MAC (26791f5e46b86b0f75d69c58c3c4c3ac)] -> xpath: //iframe[@frameborder="0"]]
+2020-06-16 11:57:38,729 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: email
+2020-06-16 11:57:38,867 INFO main [com.driver.Driver]info(line:35)Element:By.name: email  Input:parson91
+2020-06-16 11:57:38,868 INFO main [com.driver.Driver]info(line:35)Found Element:By.name: password
+2020-06-16 11:57:38,990 INFO main [com.driver.Driver]info(line:35)Element:By.name: password  Input:Parson123!
+2020-06-16 11:57:38,990 INFO main [com.driver.Driver]info(line:35)Found Element:By.id: dologin
+2020-06-16 11:57:39,454 INFO main [com.driver.Driver]info(line:35)Click Element:By.id: dologin
+2020-06-16 11:57:42,466 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-16 11:57:42,522 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-16 11:57:43,821 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-16 11:57:43,879 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-16 11:57:48,883 INFO main [com.driver.Driver]info(line:35)Found Elements:By.xpath: //*[@title="选中此邮件"]
+2020-06-16 11:57:48,951 INFO main [com.driver.Driver]info(line:35)Click Element(8):By.xpath: //*[@title="选中此邮件"]
+2020-06-16 11:57:52,397 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-16 11:57:52,473 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-16 11:57:52,479 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-16 11:57:52,548 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: (//*[contains(text(),"收件箱")])[3]
+2020-06-16 11:57:52,927 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //li[@title="首页"]
+2020-06-16 11:57:52,981 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //li[@title="首页"]
+2020-06-16 11:57:52,985 INFO main [com.driver.Driver]info(line:35)Found Element:By.xpath: //span[@title="红旗邮件"]
+2020-06-16 11:57:53,041 INFO main [com.driver.Driver]info(line:35)Click Element:By.xpath: //span[@title="红旗邮件"]
+2020-06-16 11:57:53,539 INFO main [com.driver.Driver]info(line:35)Close All Windows
+2020-06-17 17:46:29,825 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-17 17:46:30,126 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-17 17:46:30,191 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Python
+2020-06-17 17:47:00,996 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-17 17:47:01,212 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-17 17:47:01,234 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Python
+2020-06-17 18:47:25,474 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-17 18:47:25,688 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-17 18:47:25,705 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Python
+2020-06-17 18:47:25,705 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Django
+2020-06-17 18:47:25,706 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Jenkins
+2020-06-17 18:47:57,843 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-17 18:47:58,056 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-17 18:47:58,075 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Python
+2020-06-17 18:47:58,075 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Django
+2020-06-17 18:47:58,075 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Jenkins
+2020-06-17 18:49:09,597 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-17 18:49:09,770 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-17 18:49:09,783 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Python
+2020-06-17 18:49:09,783 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Django
+2020-06-17 18:49:09,784 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:Jenkins
+2020-06-17 18:49:59,795 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-17 18:50:00,006 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 10:43:43,414 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 10:43:43,635 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 10:43:43,652 ERROR main [com.tool.FileUnit]error(line:43)Column 'title' not found.
+2020-06-18 10:44:28,736 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 10:44:28,913 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 10:44:28,929 ERROR main [com.tool.FileUnit]error(line:43)Column 'title' not found.
+2020-06-18 10:45:31,352 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 10:45:31,564 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 10:45:31,583 ERROR main [com.tool.FileUnit]error(line:43)java.sql.SQLException: Column 'title' not found.
+2020-06-18 10:47:10,408 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 10:47:10,601 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 10:47:10,625 ERROR main [com.tool.FileUnit]error(line:43)java.sql.SQLException: Column 'title' not found.
+2020-06-18 10:47:10,626 ERROR main [com.tool.FileUnit]error(line:43)java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:27:59,077 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 11:27:59,293 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 11:27:59,311 ERROR main [com.tool.FileUnit]error(line:43)java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:27:59,312 ERROR main [com.tool.FileUnit]error(line:43)java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:27:59,312 INFO main [com.tool.FileUnit]info(line:35)Column 'title' not found.
+2020-06-18 11:29:18,810 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 11:29:19,024 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 11:29:19,046 ERROR main [com.tool.FileUnit]error(line:43)fill:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:29:19,047 ERROR main [com.tool.FileUnit]error(line:43)se:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:29:19,047 INFO main [com.tool.FileUnit]info(line:35)mes:Column 'title' not found.
+2020-06-18 11:30:08,163 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 11:30:08,369 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 11:30:08,388 ERROR main [com.tool.FileUnit]error(line:43)fill:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:30:08,388 ERROR main [com.tool.FileUnit]error(line:43)se:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:30:08,389 INFO main [com.tool.FileUnit]info(line:35)mes:[Ljava.lang.StackTraceElement;@74455848
+Connect Database...
+实例化Statement对象...
+fill:java.sql.SQLException: Column 'title' not found.
+se:java.sql.SQLException: Column 'title' not found.
+mes:[Ljava.lang.StackTraceElement;@62230c58
+2020-06-18 11:39:40,608 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 11:39:40,807 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 11:39:40,831 ERROR main [com.tool.FileUnit]error(line:43)fill:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:39:40,832 ERROR main [com.tool.FileUnit]error(line:43)se:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:39:40,832 INFO main [com.tool.FileUnit]info(line:35)mes:Column 'title' not found.java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:46:16,726 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 11:46:16,939 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 11:46:16,957 ERROR main [com.tool.FileUnit]error(line:51)fill:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:46:16,957 ERROR main [com.tool.FileUnit]error(line:51)se:java.sql.SQLException: Column 'title' not found.
+2020-06-18 11:46:16,958 ERROR main [com.tool.FileUnit]error(line:55)Throwable:Column 'title' not found.
+java.sql.SQLException: Column 'title' not found.
+	at com.tool.MysqlUtil.getSqlValues(MysqlUtil.java:43)
+	at com.test.TestLog.testSql(TestLog.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+2020-06-18 11:47:30,009 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 11:47:30,232 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 11:47:30,259 ERROR main [com.tool.FileUnit]error(line:55)Column 'title' not found.
+java.sql.SQLException: Column 'title' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:548)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getString(ResultSetImpl.java:852)
+	at com.tool.MysqlUtil.getSqlValues(MysqlUtil.java:34)
+	at com.test.TestLog.testSql(TestLog.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+2020-06-18 11:54:01,273 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 11:54:01,479 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 11:54:01,498 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:1
+2020-06-18 11:54:01,499 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:2
+2020-06-18 11:54:01,499 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:3
+2020-06-18 12:01:11,300 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-18 12:01:11,511 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-18 12:01:11,527 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:1
+2020-06-18 12:01:11,527 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:2
+2020-06-18 12:01:11,528 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:3
+2020-06-19 19:05:46,792 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-06-19 19:05:47,124 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-06-19 19:05:47,159 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:1
+2020-06-19 19:05:47,160 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:2
+2020-06-19 19:05:47,160 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:3
+2020-07-10 17:14:49,767 INFO main [com.tool.FileUnit]info(line:35)Connect Database...
+2020-07-10 17:14:50,100 INFO main [com.tool.FileUnit]info(line:35)实例化Statement对象...
+2020-07-10 17:14:50,152 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:1
+2020-07-10 17:14:50,152 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:2
+2020-07-10 17:14:50,152 INFO main [com.tool.FileUnit]info(line:35)查询结果Title:3

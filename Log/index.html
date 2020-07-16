@@ -1,0 +1,188 @@
+<html>
+<head>
+	<title>Selenium自动化测试Demo</title>
+</head>
+<style type="text/css">
+	table{font-size:20;text-align:center;width:80%;border-collapse:collapse;margin:auto}	
+	table th{background: #ccc}
+	.display{color:red}
+	.widgetStyle{text-align:left;padding-left:100px}	
+</style>
+<script>
+
+function display_alert(){
+  alert("Alert警告框!!!")
+}
+function display_confirm(){
+   result = confirm("Confirm确认框");
+   if(result){alert("确定继续下一步？");}
+   else{alert("关闭窗口？");
+	   }   
+
+}
+function display_prompt(){
+    result = prompt("Prompt提示框，请输入信息")
+if(result){alert("确定继续下一步？");}
+   else{alert("关闭窗口？");
+	   }   
+
+
+
+}
+
+
+
+function show_div(){   
+	setTimeout("create_div()", 3000);   
+}      
+function create_div(){   
+	d = document.createElement('div'); 	
+	d.className = "red";  
+	d.style.color='red';
+	d.innerHTML="Waiting 3s Display!";
+	document.getElementById("display").appendChild(d);   
+}   
+function mouseOver(){
+	document.getElementById("over").innerHTML="<div class='display'>触发Action焦点!!!</div>";
+}
+function mouseOut(){
+	document.getElementById("over").innerHTML="";
+}
+</script>
+<body>
+<div>
+	<div class="text" style="font-size:36;text-align:center">Selenium自动化测试</div>
+	<br/>
+	<table cellpadding="10" cellspacing="0" border="1">
+		<thead>
+			<tr>
+				<th width=20% class="widgetleft">控件名称</th>
+				<th width=80% class="widgetStyle">控件操作</th>				
+			</tr>
+		</thead>
+				<tbody>
+					<tr>
+						<td>文本输入框示例</td>
+<!--						<td class="widgetStyle"><div id='input'><input type="text" id="user"/></div></td>-->
+						<td class="widgetStyle"><input type="text" id="text_input"/></td>
+					</tr>
+					<tr>
+						<td>Link示例</td>
+						<td class="widgetStyle"><div id='link'><a href="https://www.baidu.com/" class='baidu'>百度一下</a></div></td>
+					</tr>
+					<tr>
+						<td>下拉框示例</td>
+						<td class="widgetStyle"><div id='select'>
+								<select name='select' id="moreSelect">
+								  <option value ="iPhone">iPhone X</option>
+								  <option value ="OPPO">OPPO A5</option>
+								  <option value="VIVO">VIVO X21</option>
+								  <option value="Mi">MI 8</option>
+								  <option value="Huawei">Huawei P30</option>
+								  <option value="Honor">荣耀10</option>
+								</select>
+							</div>
+						</td>						
+					</tr>
+					<tr>
+						<td>单选框示例</td>
+						<td class="widgetStyle">
+							<div id='radio'>
+								<input type='radio' name="identity" class='auto'/><label>Volkswagen</label></br>
+								<input type='radio' name="identity" class='toyota'/><label>Toyota</label></br>
+								<input type='radio' name="identity" class='honda'/><label>Honda</label></br>
+								<input type='radio' name="identity" class='nissan'/><label>Nissan</label></br>
+								<input type='radio' name="identity" class='hyundai'/><label>Hyundai</label></br>
+								<input type='radio' name="identity" class='kia'/><label>KIA</label></br>
+								<input type='radio' name="identity" class='peugeot'/><label>Peugeot</label>
+							</div>
+						
+						</td>						
+					</tr>
+					<tr>
+						<td><p>复选框示例</p></td>
+						<td class="widgetStyle">
+							<div id='checkbox'>
+								<input type="checkbox" name="checkbox1"/><label>Nike</label></br>
+								<input type="checkbox" name="checkbox2"/><label>Adidas</label></br>
+								<input type="checkbox" name="checkbox3"/><label>New Balance</label></br>
+								<input type="checkbox" name="checkbox3"/><label>PUMA</label></br>
+								<input type="checkbox" name="checkbox3"/><label>Converse</label></br>
+								<input type="checkbox" name="checkbox3"/><label>Reebok</label></br>
+								<input type="checkbox" name="checkbox3"/><label>Asics</label></br>
+								<input type="checkbox" name="checkbox3"/><label>Anta</label></br>
+								<input type="checkbox" name="checkbox4"/><label>Lining</label>
+							</div>
+						</td>						
+					</tr>
+					<tr>
+						<td>Button按钮</td>
+						<td class="widgetStyle"><div id='button'>
+						<input name="buttonhtml" type='button' class='button' value='Submit' disabled="disabled"/>
+						<input  type="button" class="btnSousuo" id="id01" value="淘你喜欢" onclick="window.location.href='https://www.taobao.com/'"/>
+						</div></td>						
+					</tr>
+                    <tr>
+						<td>Alert警告框示例</td>
+						<td class="widgetStyle"><div id='alert'><input type='button' class='alert' value='Alert' onclick='display_alert()'/></div></td>						
+					</tr>
+					<tr>
+						<td>Confirm确认框示例</td>
+						<td class="widgetStyle"><div id='confirm'><input type='button' class='confirm' value='Confirm' onclick='display_confirm()'/></div></td>
+					</tr>
+                    <tr>
+						<td>Prompt提示框示例</td>
+						<td class="widgetStyle"><div id='prompt'><input type='button' class='prompt' value='Prompt' onclick='display_prompt()'/></div></td>
+					</tr>
+                    
+					<tr>
+						<td>文件上传示例</td>
+						<td class="widgetStyle"><div id='upload'><input type='file' id='load'/></div></td>						
+					</tr>
+					<tr>
+						<td>新窗口示例</td>
+						<td class="widgetStyle"><div id='open'><a href="demo1.html" class='open' target='_bank'>测试一下</a></div></td>
+					</tr>
+					<tr>
+						<td>焦点触发示例</td>
+						<td class="widgetStyle"><div id='action'>
+								<input type='button' class='over' value='Action'onmouseover="mouseOver()" onMouseOut="mouseOut()"/><div id='over'></div>
+							</div>
+						</td>						
+					</tr>
+					<tr>
+						<td>等待显示示例</td>
+						<td class="widgetStyle">
+							<div id='wait'><input type='button' class='wait' value='Wait' onclick = "show_div()"/></div>
+							<div id='display'></div>
+						</td>						
+					</tr>
+					<tr>
+					<td>多选下拉框示例</td>
+					<td class="widgetStyle">
+					  <select id="selectWithMultipleEqualsMultiple" multiple="multiple">
+					  <option selected="selected" label="java">Java</option>
+					  <option label="python">Python</option>
+					  <option label="golang">Golang</option>
+					  <option label="php">PHP</option>
+					  <option label="shell">Shell</option>
+					  <option label="javascript">JavaScript</option>
+					  <option label="sql">SQL</option>
+					  <option label="html">HTML</option>
+                      </select>
+					  </td>
+					</tr>
+					<tr>
+						<td>切换Frame示例</td>
+						<td class="widgetStyle">
+							<iframe width=800 height=330 id="frame" name="aa" class="frame" frameborder=0 src="./demo1.html"></iframe>
+						</td>						
+					</tr>
+				</tbody>
+			
+		
+	</table>
+	<br/>
+</div>
+</body>
+</html>
