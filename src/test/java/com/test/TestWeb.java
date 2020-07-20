@@ -17,7 +17,7 @@ public class TestWeb {
     public void testLogin() throws InterruptedException {
         Driver.openDriver("chrome");
         op.getUrl("https://mail.163.com/");
-        login.login("parson91","Parson123!");
+        login.login("xxxxx","xxxxx!");
         sleep(3000);
     }
 
