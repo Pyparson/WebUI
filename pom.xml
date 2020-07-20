@@ -120,9 +120,10 @@
                 <!--                </configuration>-->
                 <configuration>
                     <suiteXmlFiles>
-                        <!--                        <suiteXmlFile>./testng.xml</suiteXmlFile>-->
+                        <suiteXmlFile>./testng.xml</suiteXmlFile>
                         <!--suppress UnresolvedMavenProperty -->
-                        <suiteXmlFile>${caseId}</suiteXmlFile>
+<!--                        Jenkins参数化时使用-->
+<!--                        <suiteXmlFile>${caseId}</suiteXmlFile>-->
                     </suiteXmlFiles>
                 </configuration>
                 <!--                <dependencies>-->
